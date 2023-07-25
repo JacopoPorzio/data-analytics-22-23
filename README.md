@@ -1,7 +1,7 @@
 # Data Analytics for Mechanical Systems 2022-2023
 
 <p>Students: Jacopo Porzio, Andrea Paludo</p>
-<p>Autonomous car DDPG</p>
+<p>Autonomous car DDPG.</p>
 
 
 # Requirements
