@@ -10,3 +10,7 @@
 pip install tensorflow==2.10.1
 pip install gymnasium==0.28.l
 ```
+
+# Preliminar work
+
+[Keras tutorial on DDPG](https://keras.io/examples/rl/ddpg_pendulum/)
