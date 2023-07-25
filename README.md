@@ -1,1 +1,1 @@
-# data-analytics-22-23
+Data Analytics for Mechanical Systems 2022-2023
