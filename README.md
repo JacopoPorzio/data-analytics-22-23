@@ -3,4 +3,8 @@
 Students: Jacopo Porzio, Andrea Paludo
 
 
-# Ciao
+# Requirements
+```
+pip install tensorflow==2.10.1
+pip install gymnasium==0.28.l
+```
