@@ -2,7 +2,9 @@
 
 <p>Students: Jacopo Porzio, Andrea Paludo</p>
 <p>Autonomous car DDPG.</p>
-<p>The code is based on the [Keras tutorial on DDPG](https://keras.io/examples/rl/ddpg_pendulum/)</p>
+
+
+The code is based on the [Keras tutorial on DDPG](https://keras.io/examples/rl/ddpg_pendulum/)
 
 # Requirements
 
