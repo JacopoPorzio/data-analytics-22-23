@@ -212,7 +212,9 @@ def get_critic():
     concat = layers.Concatenate()([state_out, action_out])
 
     out = layers.Dense(256, activation="relu")(concat)
+    out = layers.BatchNormalization()(out)
     out = layers.Dense(256, activation="relu")(out)
+    out = layers.BatchNormalization()(out)
     outputs = layers.Dense(1)(out)
 
     # Outputs single value for give state-action
