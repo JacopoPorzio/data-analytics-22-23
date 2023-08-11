@@ -4,7 +4,8 @@
 <p>Autonomous car DDPG.</p>
 
 
-The code is based on the [Keras tutorial on DDPG](https://keras.io/examples/rl/ddpg_pendulum/) .
+The code is based on the [Keras tutorial on DDPG](https://keras.io/examples/rl/ddpg_pendulum/).
+Check our [site](https://sites.google.com/view/dataanalytics22-23) for a video sample of the evaluation.
 
 # Requirements
 
